@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 55px;
+    color: grey;
+    font-weight: 750;
+}
+
+.list {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
